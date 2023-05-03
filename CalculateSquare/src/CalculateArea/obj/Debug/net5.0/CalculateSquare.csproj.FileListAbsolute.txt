@@ -1,0 +1,12 @@
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\bin\Debug\net5.0\CalculateSquare.deps.json
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\bin\Debug\net5.0\CalculateSquare.dll
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\bin\Debug\net5.0\ref\CalculateSquare.dll
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\bin\Debug\net5.0\CalculateSquare.pdb
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\obj\Debug\net5.0\CalculateSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\obj\Debug\net5.0\CalculateSquare.AssemblyInfoInputs.cache
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\obj\Debug\net5.0\CalculateSquare.AssemblyInfo.cs
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\obj\Debug\net5.0\CalculateSquare.csproj.CoreCompileInputs.cache
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\obj\Debug\net5.0\CalculateSquare.dll
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\obj\Debug\net5.0\ref\CalculateSquare.dll
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\obj\Debug\net5.0\CalculateSquare.pdb
+C:\Users\malki\OneDrive\Documents\CalculateSquare\src\CalculateSquare\obj\Debug\net5.0\CalculateSquare.csprojAssemblyReference.cache
